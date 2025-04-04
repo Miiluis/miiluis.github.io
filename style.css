@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.chenare {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    margin-top: 50px;
+    gap: 100px;
+}
+
+.chenar{
+    background-color: grey;
+    padding: 5%;
+    border-radius: 25px;
+}
+
+.chenar:hover{
+    background-color: lightgrey;
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.poza{
+    width: 30%;
+}
